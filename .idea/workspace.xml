@@ -1,0 +1,321 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="3854e49f-41a4-44d6-97a4-0b122a437f15" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="DatabaseView">
+    <option name="SHOW_INTERMEDIATE" value="true" />
+    <option name="GROUP_DATA_SOURCES" value="true" />
+    <option name="GROUP_SCHEMA" value="true" />
+    <option name="GROUP_CONTENTS" value="false" />
+    <option name="SORT_POSITIONED" value="false" />
+    <option name="SHOW_EMPTY_GROUPS" value="false" />
+    <option name="AUTO_SCROLL_FROM_SOURCE" value="false" />
+    <option name="HIDDEN_KINDS">
+      <set />
+    </option>
+    <expand />
+    <select />
+  </component>
+  <component name="FavoritesManager">
+    <favorites_list name="RL-learning" />
+  </component>
+  <component name="ProjectId" id="1q4VuR6Y3Q5na8BIkI3PmpxKQiB" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="true" />
+    <property name="WebServerToolWindowPanel.toolwindow.highlight.mappings" value="true" />
+    <property name="WebServerToolWindowPanel.toolwindow.highlight.symlinks" value="true" />
+    <property name="WebServerToolWindowPanel.toolwindow.show.date" value="false" />
+    <property name="WebServerToolWindowPanel.toolwindow.show.permissions" value="false" />
+    <property name="WebServerToolWindowPanel.toolwindow.show.size" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/DQN" />
+    <property name="settings.editor.selected.configurable" value="com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\孟荣业\PycharmProjects\RL-learning\DQN" />
+      <recent name="C:\Users\孟荣业\PycharmProjects\RL-learning" />
+      <recent name="C:\Users\孟荣业\PycharmProjects\RL-learning\RL-Compose" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\孟荣业\PycharmProjects\RL-learning\Q-learning" />
+    </key>
+  </component>
+  <component name="RunManager" selected="Python.run_mountion_car (1)">
+    <configuration name="net (1)" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="RL-learning" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Policy-gradient" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Policy-gradient/net.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="net (2)" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="RL-learning" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Actor-Critic" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Actor-Critic/net.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="run_mountion_car (1)" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="RL-learning" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Actor-Critic" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Actor-Critic/run_mountion_car.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="run_mountion_car" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="RL-learning" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Policy-gradient" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Policy-gradient/run_mountion_car.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="run_mountion_car" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="RL-learning" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Actor-Critic" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="C:\Users\孟荣业\PycharmProjects\RL-learning\Actor-Critic\run_mountion_car.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="test (3)" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="RL-learning" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/DQN" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/DQN/test.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Python.run_mountion_car (1)" />
+        <item itemvalue="Python.net (2)" />
+        <item itemvalue="Python.run_mountion_car" />
+        <item itemvalue="Python.run_mountion_car" />
+        <item itemvalue="Python.net (1)" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="ServiceViewManager">
+    <option name="viewStates">
+      <list>
+        <serviceView>
+          <treeState>
+            <expand />
+            <select />
+          </treeState>
+        </serviceView>
+      </list>
+    </option>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="3854e49f-41a4-44d6-97a4-0b122a437f15" name="Default Changelist" comment="" />
+      <created>1616339071609</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1616339071609</updated>
+      <workItem from="1616339075076" duration="36218000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="590" y="991" width="490" height="852" key="#xdebugger.evaluate" timestamp="1616430526885">
+      <screen x="0" y="0" width="1080" height="1880" />
+    </state>
+    <state x="590" y="991" width="490" height="852" key="#xdebugger.evaluate/0.0.1080.1880@0.0.1080.1880" timestamp="1616430526885" />
+    <state x="1228" y="548" width="490" height="471" key="#xdebugger.evaluate/0.0.1920.1040@0.0.1920.1040" timestamp="1616388229971" />
+    <state width="1034" height="275" key="GridCell.Tab.0.bottom" timestamp="1616460764263">
+      <screen x="0" y="0" width="1080" height="1880" />
+    </state>
+    <state width="1034" height="275" key="GridCell.Tab.0.bottom/0.0.1080.1880@0.0.1080.1880" timestamp="1616460764263" />
+    <state width="914" height="376" key="GridCell.Tab.0.bottom/0.0.1920.1040@0.0.1920.1040" timestamp="1616388234233" />
+    <state width="1034" height="275" key="GridCell.Tab.0.center" timestamp="1616460764262">
+      <screen x="0" y="0" width="1080" height="1880" />
+    </state>
+    <state width="1034" height="275" key="GridCell.Tab.0.center/0.0.1080.1880@0.0.1080.1880" timestamp="1616460764262" />
+    <state width="914" height="376" key="GridCell.Tab.0.center/0.0.1920.1040@0.0.1920.1040" timestamp="1616388234232" />
+    <state width="1034" height="275" key="GridCell.Tab.0.left" timestamp="1616460764262">
+      <screen x="0" y="0" width="1080" height="1880" />
+    </state>
+    <state width="1034" height="275" key="GridCell.Tab.0.left/0.0.1080.1880@0.0.1080.1880" timestamp="1616460764262" />
+    <state width="914" height="376" key="GridCell.Tab.0.left/0.0.1920.1040@0.0.1920.1040" timestamp="1616388234232" />
+    <state width="1034" height="275" key="GridCell.Tab.0.right" timestamp="1616460764262">
+      <screen x="0" y="0" width="1080" height="1880" />
+    </state>
+    <state width="1034" height="275" key="GridCell.Tab.0.right/0.0.1080.1880@0.0.1080.1880" timestamp="1616460764262" />
+    <state width="914" height="376" key="GridCell.Tab.0.right/0.0.1920.1040@0.0.1920.1040" timestamp="1616388234233" />
+    <state width="1034" height="372" key="GridCell.Tab.1.bottom" timestamp="1616431222223">
+      <screen x="0" y="0" width="1080" height="1880" />
+    </state>
+    <state width="1034" height="372" key="GridCell.Tab.1.bottom/0.0.1080.1880@0.0.1080.1880" timestamp="1616431222223" />
+    <state width="914" height="376" key="GridCell.Tab.1.bottom/0.0.1920.1040@0.0.1920.1040" timestamp="1616388234234" />
+    <state width="1034" height="372" key="GridCell.Tab.1.center" timestamp="1616431222223">
+      <screen x="0" y="0" width="1080" height="1880" />
+    </state>
+    <state width="1034" height="372" key="GridCell.Tab.1.center/0.0.1080.1880@0.0.1080.1880" timestamp="1616431222223" />
+    <state width="914" height="376" key="GridCell.Tab.1.center/0.0.1920.1040@0.0.1920.1040" timestamp="1616388234234" />
+    <state width="1034" height="372" key="GridCell.Tab.1.left" timestamp="1616431222223">
+      <screen x="0" y="0" width="1080" height="1880" />
+    </state>
+    <state width="1034" height="372" key="GridCell.Tab.1.left/0.0.1080.1880@0.0.1080.1880" timestamp="1616431222223" />
+    <state width="914" height="376" key="GridCell.Tab.1.left/0.0.1920.1040@0.0.1920.1040" timestamp="1616388234233" />
+    <state width="1034" height="372" key="GridCell.Tab.1.right" timestamp="1616431222223">
+      <screen x="0" y="0" width="1080" height="1880" />
+    </state>
+    <state width="1034" height="372" key="GridCell.Tab.1.right/0.0.1080.1880@0.0.1080.1880" timestamp="1616431222223" />
+    <state width="914" height="376" key="GridCell.Tab.1.right/0.0.1920.1040@0.0.1920.1040" timestamp="1616388234234" />
+    <state x="461" y="162" key="SettingsEditor" timestamp="1616339665448">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="461" y="162" key="SettingsEditor/0.0.1920.1040@0.0.1920.1040" timestamp="1616339665448" />
+    <state x="840" y="250" key="ftp.server.browser" timestamp="1616339650967">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="840" y="250" key="ftp.server.browser/0.0.1920.1040@0.0.1920.1040" timestamp="1616339650967" />
+    <state x="701" y="162" key="refactoring.ChangeSignatureDialog" timestamp="1616342446750">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="701" y="162" key="refactoring.ChangeSignatureDialog/0.0.1920.1040@0.0.1920.1040" timestamp="1616342446750" />
+    <state x="200" y="1022" width="672" height="678" key="search.everywhere.popup" timestamp="1616425669076">
+      <screen x="0" y="0" width="1080" height="1880" />
+    </state>
+    <state x="200" y="1022" width="672" height="678" key="search.everywhere.popup/0.0.1080.1880@0.0.1080.1880" timestamp="1616425669076" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/Q-learning/RL_brain.py</url>
+          <line>35</line>
+          <option name="timeStamp" value="1" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/DQN/test.py</url>
+          <line>35</line>
+          <option name="timeStamp" value="9" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/DQN/RL_brain.py</url>
+          <line>115</line>
+          <option name="timeStamp" value="12" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+  </component>
+  <component name="com.intellij.coverage.CoverageDataManagerImpl">
+    <SUITE FILE_PATH="coverage/RL_learning$run_mountion_car__1_.coverage" NAME="run_mountion_car (1) Coverage Results" MODIFIED="1616432845480" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Actor-Critic" />
+    <SUITE FILE_PATH="coverage/RL_learning$test.coverage" NAME="test Coverage Results" MODIFIED="1616428720801" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Actor-Critic" />
+    <SUITE FILE_PATH="coverage/RL_learning$net.coverage" NAME="net Coverage Results" MODIFIED="1616347865362" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/DQN" />
+    <SUITE FILE_PATH="coverage/RL_learning$net__1_.coverage" NAME="net (1) Coverage Results" MODIFIED="1616386996244" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Policy-gradient" />
+    <SUITE FILE_PATH="coverage/RL_learning$test__1_.coverage" NAME="test (1) Coverage Results" MODIFIED="1616342002015" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Sarsa" />
+    <SUITE FILE_PATH="coverage/RL_learning$test__3_.coverage" NAME="test (3) Coverage Results" MODIFIED="1616384251198" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/DQN" />
+    <SUITE FILE_PATH="coverage/RL_learning$test__2_.coverage" NAME="test (2) Coverage Results" MODIFIED="1616344279759" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/RL-Compose" />
+    <SUITE FILE_PATH="coverage/RL_learning$run_mountion_car.coverage" NAME="run_mountion_car Coverage Results" MODIFIED="1616428761753" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Policy-gradient" />
+    <SUITE FILE_PATH="coverage/RL_learning$net__2_.coverage" NAME="net (2) Coverage Results" MODIFIED="1616430221227" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Actor-Critic" />
+  </component>
+</project>
